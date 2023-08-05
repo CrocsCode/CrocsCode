@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cocrodile07
+- 👋 Hi, I’m @CrocsCode
 - 👀 I’m interested in computer science, gaming and anime
 - 🌱 I’m currently learning computer science at DCU (2nd year)
 - 💞️ I’m looking to collaborate on anything :)
